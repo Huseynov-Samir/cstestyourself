@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\bin\Debug\net7.0\task1_csharp.exe
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\bin\Debug\net7.0\task1_csharp.deps.json
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\bin\Debug\net7.0\task1_csharp.runtimeconfig.json
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\bin\Debug\net7.0\task1_csharp.dll
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\bin\Debug\net7.0\task1_csharp.pdb
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\obj\Debug\net7.0\task1_csharp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\obj\Debug\net7.0\task1_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\obj\Debug\net7.0\task1_csharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\obj\Debug\net7.0\task1_csharp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\obj\Debug\net7.0\task1_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\obj\Debug\net7.0\task1_csharp.dll
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\obj\Debug\net7.0\refint\task1_csharp.dll
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\obj\Debug\net7.0\task1_csharp.pdb
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\obj\Debug\net7.0\task1_csharp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\jed_html_css\esas sehife\cstestyourself\task1_csharp\obj\Debug\net7.0\ref\task1_csharp.dll
