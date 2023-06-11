@@ -17,8 +17,30 @@ if(name=="g" || age==1){
 	}
 }else if(name=="guset" && age==10){
 	addSymbol='B';
+	age  = Convert.ToInt16(Console.ReadLine());
+	switch (age)
+	{
+		case 10:
+			Console.WriteLine("yes is it");
+			break;
+		case 20:
+			Console.WriteLine("nope is it");
+			break;
+		default:
+			Console.WriteLine("wrong");
+			break;
+	}
 }else{
+	string typeAge;
+	typeAge=age switch
+	{
+		112 => "add your number but not",
+		115 => "add your number but wow",
+		_=> "wow",
+	};
+	Console.WriteLine(typeAge);
 	addSymbol='C';
 }
 
 Console.WriteLine(name+" "+age+" "+addSymbol);
+
